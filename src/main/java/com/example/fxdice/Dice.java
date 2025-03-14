@@ -1,7 +1,7 @@
 package com.example.fxdice;
 
 import java.util.Random; //乱数を使うためのパッケージ
-
+//aaa
 public class Dice {
 
     //さいころのシミュレーションをする
