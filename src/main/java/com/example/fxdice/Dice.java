@@ -4,6 +4,7 @@ import java.util.Random; //乱数を使うためのパッケージ
 
 public class Dice {
 
+    //さいころのシミュレーションをする
     private int number = 1;
 
     //コンストラクタ 初期化処理
